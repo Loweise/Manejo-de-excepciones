@@ -1,0 +1,3 @@
+com\mycompany\manejodeexcepciones\CalificacionInvalidaException.class
+com\mycompany\manejodeexcepciones\SinDatosValidosException.class
+com\mycompany\manejodeexcepciones\ProcesadorCalificaciones.class
